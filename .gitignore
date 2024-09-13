@@ -1,0 +1,4 @@
+*.engine
+*.pt
+*.onnx
+__pycache__
